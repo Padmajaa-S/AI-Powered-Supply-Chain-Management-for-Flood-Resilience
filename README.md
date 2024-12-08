@@ -14,7 +14,7 @@ This project provides an **AI-powered mobile solution** for **flood prediction**
 
 - **Intel® AI PC (CPU, NPU, GPU)** for local processing.
 - **Intel® OpenVINO™ Toolkit** for optimized AI models.
-- **Android Native Development (Java/Kotlin)** for app development.
+- **Android Native Development (Java)** for app development.
 - **Route Optimization Algorithms** for real-time supply chain adjustments.
 
 ## Usage
